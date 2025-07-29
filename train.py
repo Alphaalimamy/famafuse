@@ -24,7 +24,7 @@ def setup_seed(seed: int):
 
 
 
-#         Train Step
+# Train Step
 def train_step(model, optimizer, weights, img1, img2, device):
     model.train()
     model.to(device)

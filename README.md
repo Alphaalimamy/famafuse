@@ -1,5 +1,5 @@
 If you find it useful, please cite out work
-
+```latex
 @ARTICLE{11219312,
   author={Kamara, Alpha Alimamy and He, Shiwen and Fofanah, Abdul Joseph},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
